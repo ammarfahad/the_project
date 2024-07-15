@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheProject</string>
+    <string name="search_text_hint">Search…</string>
+    <string name="first_product">First Product</string>
+    <string name="second_product">Second Product</string>
+    <string name="third_product">Third Product</string>
+    <string name="first_product_title">First Product Title</string>
+    <string name="second_product_title">Second Product Title</string>
+    <string name="third_product_title">Third Product Title</string>
+    <string name="no_result_found">No Result Found</string>
+</resources>
